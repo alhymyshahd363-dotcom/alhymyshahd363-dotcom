@@ -1,4 +1,4 @@
-![Banner](IMG_20260110_230347_320.jpg)
+
 
 <!--
 **alhymyshahd363-dotcom/alhymyshahd363-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
